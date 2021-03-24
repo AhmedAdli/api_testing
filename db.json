@@ -1,0 +1,20 @@
+{
+  "courses": [
+    { 
+      "id": 1,
+       "title": "Postman",
+      "describtion": "Api Testing tool"
+    },
+    { 
+      "id": 1,
+      "title": "Selenium",
+      "describtion": "Test Automation tool"
+    },
+    { 
+      "id": 1,
+      "title": "Cucumber",
+      "describtion": "Test automation tool 2"
+    }
+  ]
+  
+}
